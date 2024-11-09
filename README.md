@@ -47,10 +47,3 @@ This project is a Telegram bot that sends daily vocabulary from a specific websi
 
 The bot is set up to run daily and fetch the latest vocabulary. You can modify the fetch URL or schedule by editing the bot_script.py file.
 
-## Dependencies
-
-See requirements.txt for a list of dependencies.
-
-```bash
-python bot_script.py
-```
